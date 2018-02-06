@@ -15,7 +15,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "durandal": "^2.2.0"
+    "durandal": "^2.2.0",
+    "jquery": "^3.3.1"
   },
   "devDependencies": {
     "http-server": "^0.11.1"
